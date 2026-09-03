@@ -1,13 +1,13 @@
 {
     "version": "1.0",
-    "date": "27-08-2026",
+    "date": "03-09-2026",
     "url": "https://raw.githubusercontent.com/Sevenity/enigma2-channel-list/main/channel_list.zip",
     "description": "Dodano nowe kanały",
     "update_message": "Dostępna jest nowa lista kanałów.",
     "changes": [
         "Dodano Eurosport 3 i Eurosport 4",
-        "Usunięto niedziałające kanały",
+        "Kilka kanałów zmieniło kolejność na liście",
         "W razie wystąpienia problemu to:",
-        "Telefon i Memory Find. Siara i wszystko jasne"
+        "Telefon i memory find. Siara i wszystko jasne"
     ]
 }
