@@ -1,12 +1,13 @@
 {
     "version": "0.1",
-    "date": "03-09-2026",
+    "date": "05-09-2026",
     "url": "https://raw.githubusercontent.com/Sevenity/enigma2-channel-list/main/channel_list.zip",
     "description": "Dodano nowe kanały",
     "update_message": "Dostępna jest nowa lista kanałów.",
     "changes": [
-        "Dodano Eurosport 3 i Eurosport 4",
-        "Kilka kanałów zmieniło kolejność na liście",
+        "Dodano kilka kamerek z YouTube do bouquet Streamlink",
+        "Dodano Polsat VOD 205, 206, 207, 208 do bouquet Polskie",
+        "Naprawiono TVP Polonia w bouquet Polskie",
         "W razie wystąpienia problemu to:",
         "Telefon i memory find. Siara i wszystko jasne"
     ]
