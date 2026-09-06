@@ -5,9 +5,9 @@
     "description": "Dodano nowe kanały",
     "update_message": "Dostępna jest nowa lista kanałów.",
     "changes": [
-        "Dodano kilka kamerek z YouTube do bouquet Streamlink",
-        "Dodano Polsat VOD 205, 206, 207, 208 do bouquet Polskie",
-        "Naprawiono TVP Polonia w bouquet Polskie",
+        "Polskie - Dodano Polsat vod 205, 206, 207, 208",
+        "Aktualizacja parametrów TVP Polonia",
+        "Streamlink - Dodano kamerki z YouTube",
         "W razie wystąpienia problemu to:",
         "Telefon i memory find. Siara i wszystko jasne"
     ]
