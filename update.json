@@ -1,8 +1,8 @@
 {
-    "version": "0.1",
-    "date": "05-09-2026",
+    "version": "0.2",
+    "date": "10-09-2026",
     "url": "https://raw.githubusercontent.com/Sevenity/enigma2-channel-list/main/channel_list.zip",
-    "description": "Nowe częstotliwości kanałów",
+    "description": "Nowe parametry kanałów",
     "update_message": "Dostępna jest nowa lista kanałów.",
     "changes": [
         "Zaktualizowano parametry kanałów",
