@@ -1,2 +1,2 @@
-Wersja 1.0
+Wersja 1.1
 Aktualizacja parametrów picon.
